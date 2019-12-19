@@ -1,0 +1,27 @@
+Array
+(
+    [0] => Array
+        (
+            [SPBM] => 3040803010000000000
+            [FPHXZ] => 0
+            [XMMC] => 代收代付款
+            [GGXH] => 
+            [DW] => 
+            [XMSL] => 
+            [XMDJ] => 
+            [XMJE] => 35555
+            [SL] => 0.05
+            [SE] => 0
+            [KCE] => 35554.99
+            [REMARK] => 公积金33333.00,工资2222.00,社保0.00,残障金0.00,
+        )
+
+)
+
+finance_merge_content
+id
+account_id 对应 finance_accounts_id
+status
+
+`created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,

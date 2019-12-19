@@ -1,0 +1,3 @@
+2、给web目录增加对应的用户和组：    chown -R www:www /data/wwwroot/default/xty/backend/uploads/
+
+3、给www用户组增加 rw权限：   chmod -R g+rw  /data/wwwroot/default/xty/backend/uploads/

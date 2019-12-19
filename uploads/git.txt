@@ -1,0 +1,7 @@
+´ò¿ªgit bash
+ÊäÈë
+cd /e/wamp64/www/xty/
+git pull origin master
+git add .
+git commit -am 'modify'
+git push origin master

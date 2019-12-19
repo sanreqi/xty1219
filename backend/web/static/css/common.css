@@ -1,0 +1,60 @@
+.xty-container {
+    position: absolute;
+    left: 220px;
+    margin-top: 10px;
+    width: 1000px;
+}
+
+.xty-layui-side {
+    margin-top: 59px;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.pr {
+    position: relative;
+}
+
+.pa {
+    position: absolute;
+}
+
+.txl {
+    text-align: left;
+}
+
+.txr{
+    text-align: right;
+}
+
+.xty-dialog{
+ padding: 10px 10px;
+}
+
+.xty-title{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.xty-input {
+    width: 220px !important;
+}
+
+.xty-dialog-btn-group {
+    width: 330px;
+}
+
+.xty-input-info {
+    height: 38px;
+    line-height: 38px;
+}
+
+.xty-input {
+    width: 220px;
+}

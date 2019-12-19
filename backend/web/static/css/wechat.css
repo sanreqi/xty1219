@@ -1,0 +1,27 @@
+.weui-select {
+    padding-left: 0px!important;
+    height: auto!important;
+    line-height: inherit!important;
+}
+
+.last-weui-cells {
+    /*content: '';*/
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.weui-unit {
+    display: inline-block;
+    padding: 0 .6em 0 .7em;
+    border-left: 1px solid #e5e5e5;
+    line-height: 45px;
+    font-size: 17px;
+    color: #3cc51f
+}
+
+.table td, .table th {
+    text-align: center;
+}
+
+.bcolor-337ab7 {
+    background-color: #337ab7!important;
+}
